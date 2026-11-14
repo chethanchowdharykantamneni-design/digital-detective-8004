@@ -11,13 +11,3 @@
 Difference between staging and committing
 
 Staging means selecting the changes that I want to save. Committing saves those selected changes in the Git history with a message.
-## Task 6.2 — Create and use a branch
-My Learning
-
-During this assignment, I learned:
-
-Basic Linux terminal commands and file management.
-
- Python programming and number system conversions.
- 
- Git and GitHub version control and repository management.
