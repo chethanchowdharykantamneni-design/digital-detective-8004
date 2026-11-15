@@ -1,0 +1,5 @@
+num = int(input("Enter a decimal number: "))
+binary = bin(num)
+hexadecimal = hex(num)
+print("Binary:", binary[2:])
+print("Hexadecimal:", hexadecimal[2:].upper())
